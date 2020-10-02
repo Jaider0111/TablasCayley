@@ -40,4 +40,3 @@ def cayley(num):
 ent = int(input())
 perms = [x for x in range(1,ent+1)]
 cayley(permutaciones(perms))
-print("Terminamos")
